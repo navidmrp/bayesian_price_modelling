@@ -179,3 +179,43 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Jupyter notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Stan / CmdStan compiled files
+
+*.exe
+*.o
+*.hpp
+*.d
+*.dll
+*.so
+
+# CmdStanPy temporary output folders
+
+output/
+outputs/
+tmp/
+temp/
+
+# Logs and temporary files
+
+*.log
+*.tmp
+
+# OS-specific files
+
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+
+.vscode/
+.idea/
