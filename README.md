@@ -72,4 +72,21 @@ The notebook is provided as reproducible research code for the simulation compon
 
 ## Citation
 
-If you use this code, please cite the associated paper. A permanent archived version of this repository will be made available through Zenodo after release.
+If you use this code, please cite both the software repository and the associated paper.
+
+### Software
+
+This repository contains simulation code written by:
+
+**Seyed Navid Mirpoorian**
+
+### Associated paper
+
+The code is associated with the paper:
+
+**Bayesian Asset Price Modelling with Asymmetric Mean Reversion**
+
+by **Seyed Navid Mirpoorian, Nic Freeman, and Kostas Triantafyllopolous**.
+
+A permanent archived version of this repository will be made available through Zenodo after release.
+
