@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software and the associated paper."
+title: "Bayesian Price Modelling: Simulation Code"
+authors:
+
+* family-names: Mirpoorian
+  given-names: Seyed Navid
+  version: 1.0.0
+  date-released: 2026-06-22
+  repository-code: "https://github.com/navidmrp/bayesian_price_modelling"
+  license: MIT
+
+preferred-citation:
+type: article
+title: "Bayesian Asset Price Modelling with Asymmetric Mean Reversion"
+authors:
+- family-names: Mirpoorian
+given-names: Seyed Navid
+- family-names: Freeman
+given-names: Nic
+- family-names: Triantafyllopolous
+given-names: Kostas
+year: 2026
