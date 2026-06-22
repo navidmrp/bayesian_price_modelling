@@ -14,8 +14,6 @@ bayesian_price_modelling/
 ├── notebooks/
 │   └── simulation.ipynb
 │
-├── src/
-│
 ├── stan/
 │
 ├── requirements.txt
